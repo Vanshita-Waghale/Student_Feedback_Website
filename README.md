@@ -1,6 +1,7 @@
 # 🎓 Student Feedback Website (Frontend)
 
 A beautiful, animated React-based frontend application that allows students to share feedback about their academic experiences. This project promotes a better learning environment by collecting constructive feedback and engaging with students through modern UI/UX.
+
 ---
 
 ## 🛠️ Tech Stack
