@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -208,4 +208,4 @@ The app will run at `http://localhost:3000`.
 ## 📬 Feedback & Contribution
 
 Want to suggest a feature or fix a bug? Open an [[Issue](https://github.com/your-repo/issues)](https://github.com/your-repo/issues) or [[Pull Request](https://github.com/your-repo/pulls)](https://github.com/your-repo/pulls).
->>>>>>> 48116f40727925ee1a537523c8a72e3efcb76bda
+
