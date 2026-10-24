@@ -1,6 +1,6 @@
 # Student Feedback Website (Frontend)
 
-A responsive React web application where students can share feedback about their academic experience. This is the front-end part of the project, built as a PG-DAC project at C-DAC Indore.
+A responsive React web application where students can share feedback about their academic experience which helped me to apply the concepts practical.
 
 > **Status:** Front end only. The Login, Register and Contact forms are UI screens and are not yet connected to a backend.
 
